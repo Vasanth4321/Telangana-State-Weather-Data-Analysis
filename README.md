@@ -30,7 +30,6 @@ Comprehensive weather data analysis for Telangana State covering 2021-2024. This
 
 ### 3. **Reproduce the Analysis**
 - Extract raw data from `Weather Data.rar` if needed
-- Use R for data preprocessing and cleaning
 - Import processed data into Power BI for visualization
 - Follow the same analysis workflow
 
@@ -39,7 +38,6 @@ Comprehensive weather data analysis for Telangana State covering 2021-2024. This
 See `requirements.txt` for Python dependencies (if using Python for additional analysis)
 
 ### Software Requirements:
-- **R** (with tidyverse packages) - for data processing
 - **Power BI Desktop** - for creating/viewing dashboards
 - **File Extraction Tool** - WinRAR, 7-Zip, or similar for .rar files
 
@@ -58,7 +56,7 @@ See `requirements.txt` for Python dependencies (if using Python for additional a
 ![Humidity Trend Overview](visualizations/Humidity_Trend_Overview.png)
 
 #### 2. Rainfall Trends & Distribution
-![Rainfall Trends & Distribution](visualizations/Rainfall_Trends_Distribution.png)
+![Rainfall Trends & Distribution](visualizations/Rainfall_Trends_&_Distributionpng)
 
 #### 3. Temperature Dynamics
 ![Temperature Dynamics](visualizations/Temperature_Dynamics.png)
@@ -100,8 +98,5 @@ Quick reference PNG exports available in `visualizations/` folder:
 - **Data Size**: Multi-year comprehensive dataset
 - **Data Format**: CSV, XLSX, RAR compressed
 
----
 
 > ⭐ **If you find this project helpful, please consider starring this repository!** It helps others discover this project and motivates continued development.
-
----
