@@ -1,0 +1,7 @@
+# Telangana State Weather Data Analysis - Requirements
+# This project uses Power BI Desktop for visualization
+
+# The main tools used in this project are:
+# 1. Winrar 7.01 - for data extraction
+# 2. Power BI Desktop - for creating dashboards and visualizations
+# 3. CSV & XLSX files - data storage formats
