@@ -56,7 +56,7 @@ See `requirements.txt` for Python dependencies (if using Python for additional a
 ![Humidity Trend Overview](visualizations/Humidity_Trend_Overview.png)
 
 #### 2. Rainfall Trends & Distribution
-![Rainfall Trends & Distribution](visualizations/Rainfall_Trends_&_Distributionpng)
+![Rainfall Trends & Distribution](visualizations/Rainfall_Trends_&_Distribution.png)
 
 #### 3. Temperature Dynamics
 ![Temperature Dynamics](visualizations/Temperature_Dynamics.png)
